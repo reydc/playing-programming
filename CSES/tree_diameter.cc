@@ -1,7 +1,6 @@
 // https://cses.fi/problemset/task/1131
 #include <iostream>
 #include <vector>
-#include <algorithm>
 #define MAX 200001
 using namespace std;
 using vvi = vector<vector<int>>;
