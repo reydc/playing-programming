@@ -14,7 +14,6 @@ int main() {
   ll n, x;
   cin >> n >> x;
   for (auto i = 0; i < n; i++) cin >> c[i];
-  min_coins[0] = 0;
   for (auto i = 1; i <= x; i++) {
     min_coins[i] = MAX;
     for (auto j = 0; j < n; j++) {
