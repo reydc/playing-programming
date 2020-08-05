@@ -1,6 +1,5 @@
 // https://cses.fi/problemset/task/1723
 #include <iostream>
-#include <cstring>
 #include <algorithm>
 #define M 1000000007
 using namespace std;
