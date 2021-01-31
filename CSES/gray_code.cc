@@ -1,7 +1,6 @@
 // https://cses.fi/problemset/task/2205
 #include <iostream>
 #include <bitset>
-#include <string>
 #define MAX 16
 using namespace std;
 
